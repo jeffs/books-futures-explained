@@ -83,7 +83,7 @@ we can resume where we left off.
 
 ## Runtimes
 
-Languages like C#, JavaScript, Java, GO, and many others comes with a runtime
+Languages like C#, JavaScript, Java, Go, and many others comes with a runtime
 for handling concurrency. So if you come from one of those languages this will
 seem a bit strange to you.
 
